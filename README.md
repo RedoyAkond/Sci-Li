@@ -1,2 +1,3 @@
 # Sci-Li
-An extended scientific calculator by using shell scripting for Operating System Project 
+An extended scientific calculator and some other shape by using shell scripting for Operating System Project. 
+When you open the shell file it will ask you what operation you want to do. There are three option Press ‘’1’’ to enter Scientific Calculator, Press ‘’2’’ to do some arithmetical operation, Press ‘’3’’ to see some diagonal shapes. When you chose any of them they will also show you, what operation you want to perform with those types. We tried our best to make this program as user friendly. Before performing any operation it will ask you to do so. Scientific calculator which we named as “Sci-Li”. It will give you same facility like scientific calculator. There are also some other extended calculation facility. 
